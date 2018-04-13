@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  background-color: #000;
+}
+#creditform{
+	color: gold;
+	position: absolute;
+  right: 0;
+  width: 50%;
+  height: 100vh;
+}
+
+#cards{
+	border: solid 2px gold;
+	padding: 5px 10px 5px 15px;
+	margin: 0 auto ;
+}
+#riri{
+	float:left;
+	width:50%;
+}
+h1{
+	text-align: center;
+}
+.bg-gold{
+  background-color: gold;
+	color: #fff;
+}
+.bg-black{
+   background-color: #000;
+	color: gold;
+}
+#riri p{
+  position: absolute;
+  top: 22%;
+  background-color: #000;
+  color: #fff;
+  padding: 20px 30px 20px 0;
+  font-size: 2vw;
+  font-family: Candal;
+  margin: 0 25px 0 25px;
+}
